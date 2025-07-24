@@ -19,4 +19,5 @@ An end-to-end chatbot system that can intelligently answer questions by analyzin
 
 ### Installation
 
-1. Clone the repository:
+pip install -r requirements.txt
+steamlit run main.py
